@@ -1,6 +1,6 @@
-.idea/
-.bsp/
-/target
-/project/target
-/target
+/**/.idea/*
+.bsp/*
+/target/*
+/project/target/*
 .DS_Store
+/.idea
